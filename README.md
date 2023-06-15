@@ -1,5 +1,5 @@
 ## Olá, eu sou o John, desenvolvedor Laravel PHP! <img height="180em" src="download20230604174734.png"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmitysumy&count_private=true&show_icons=true&title_color=fff&text_color=fff&&theme=dracula"/>_<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmitysumy&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmitysumy&show_icons=true&theme=radical"/>_<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmitysumy&layout=compact&theme=dracula"/>
 
 
 <div> 
